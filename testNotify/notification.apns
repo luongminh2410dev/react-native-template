@@ -1,0 +1,15 @@
+{
+   "aps":{
+      "alert":"This is your message to be displayed",
+      "sound":"default",
+      "badge":1
+   },
+   "remoteMessage":{
+      "data":{
+         "is_comment":"true",
+         "type":"work",
+         "user_id":"kkk123",
+         "article_id":356153
+      }
+   }
+}
