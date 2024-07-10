@@ -1,0 +1,5 @@
+<resources>
+    <style name="AppTheme.Splash" parent="Theme.SplashScreen">
+        <item name="android:windowIsTranslucent">false</item>
+    </style>
+</resources>
